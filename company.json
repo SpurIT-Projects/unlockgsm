@@ -1,0 +1,125 @@
+{
+    "full_name": "Индивидуальный предприниматель Иванов Иван Иванович",
+    "short_name": "ИП Иванов И.И.",
+    "brand_name": "UnlockGSM.by",
+    "UNP": "123456789",
+    "registration": {
+        "authority": "Мингорисполком",
+        "certificate_number": "0123456789",
+        "date": "2018-03-15"
+    },
+    "license": {
+        "type": "Лицензия на телекоммуникационную деятельность",
+        "number": "12345",
+        "issued_by": "Министерство связи и информатизации Республики Беларусь",
+        "valid_until": "2025-12-31"
+    },
+    "address": {
+        "legal": "220050, г. Минск, ул. Примерная, д. 123, офис 456",
+        "postal": "220050, г. Минск, ул. Примерная, д. 123, офис 456",
+        "country": "Республика Беларусь",
+        "city": "Минск",
+        "region": "Минская область"
+    },
+    "contacts": {
+        "phones": [
+            "+375 (29) 123-45-67",
+            "+375 (33) 987-65-43",
+            "+375 (25) 555-44-33"
+        ],
+        "emails": [
+            "info@unlockgsm.by",
+            "support@unlockgsm.by",
+            "admin@unlockgsm.by"
+        ],
+        "website": "https://unlockgsm.by",
+        "social": {
+            "telegram": "@unlockgsm_by",
+            "viber": "+375291234567",
+            "whatsapp": "+375291234567"
+        }
+    },
+    "business_info": {
+        "years_in_business": 6,
+        "founded": "2018",
+        "specialization": "Разблокировка мобильных телефонов",
+        "services": [
+            "Разблокировка iPhone всех моделей",
+            "Разблокировка Android устройств",
+            "Разблокировка по IMEI",
+            "Консультации по разблокировке",
+            "Техническая поддержка"
+        ],
+        "working_hours": {
+            "monday_friday": "09:00-21:00",
+            "saturday": "09:00-21:00",
+            "sunday": "09:00-21:00",
+            "support_24_7": true
+        }
+    },
+    "verified_sources": [
+        {
+            "source": "Единый государственный регистр юридических лиц и индивидуальных предпринимателей",
+            "url": "https://egr.gov.by/",
+            "verification_date": "2024-01-15",
+            "status": "active"
+        },
+        {
+            "source": "Министерство связи и информатизации РБ",
+            "url": "https://mpt.gov.by/",
+            "verification_date": "2024-01-15",
+            "status": "licensed"
+        },
+        {
+            "source": "Google Business Profile",
+            "verification_date": "2024-01-10",
+            "status": "verified"
+        },
+        {
+            "source": "Яндекс Справочник",
+            "verification_date": "2024-01-12",
+            "status": "verified"
+        }
+    ],
+    "banking": {
+        "primary_bank": "ОАО 'АСБ Беларусбанк'",
+        "account_number": "BY12UNBS30140000000123456789",
+        "bic": "UNBSBY2X"
+    },
+    "certifications": [
+        {
+            "name": "Сертификат соответствия услуг",
+            "number": "BY/112 02.01.001 12345",
+            "valid_until": "2025-06-30"
+        }
+    ],
+    "statistics": {
+        "devices_unlocked": "50000+",
+        "success_rate": "99.8%",
+        "average_processing_time": "30 минут",
+        "supported_brands": 150,
+        "supported_models": "5000+",
+        "customer_satisfaction": "4.9/5"
+    },
+    "payment_methods": [
+        "Банковские карты (Visa, MasterCard)",
+        "PayPal",
+        "WebMoney",
+        "Яндекс.Деньги",
+        "QIWI",
+        "Криптовалюты (Bitcoin, Ethereum)",
+        "Наличный расчет"
+    ],
+    "guarantees": [
+        "100% гарантия возврата средств при невозможности разблокировки",
+        "Бесплатная техническая поддержка",
+        "Конфиденциальность данных клиентов",
+        "Безопасность процедуры разблокировки"
+    ],
+    "partners": [
+        "Официальные сервисные центры Apple",
+        "Авторизованные дилеры Samsung",
+        "Международные GSM операторы",
+        "Производители разблокировочного ПО"
+    ]
+}
